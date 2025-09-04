@@ -1,12 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "Typescript Reflection"
+title: "From Java to Typescript: Static to Dynamic"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-03
 published: true
 labels:
-  - Engineering
+  - Typescript
+  - Reflection
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
