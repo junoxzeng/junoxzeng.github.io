@@ -2,7 +2,7 @@
   "basics": {
     "name": "Jun Xiang (Juno) Zeng",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "https://github.com/junoxzeng.png",
     "email": "zengj@hawaii.edu",
     "phone": "808-497-2338",
     "website": "https://junoxzeng.github.io",
@@ -16,6 +16,7 @@
   "interests": [
     { "name": "Tennis" },
     { "name": "Guitar" },
+    { "name": "Reading" }
   ],
   "skills": [
     {
