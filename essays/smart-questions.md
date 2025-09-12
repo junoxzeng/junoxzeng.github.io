@@ -47,8 +47,9 @@ While this is still a relatively great question to ask and it is asked in a grea
 
 Here is a link to [StackOverflow](https://stackoverflow.com/questions/75448674/how-to-prevent-vs-code-from-deleting-the-next-word-characters-on-intellisense-au)
 
-##
+## The Importance of Questions
+Smart questions are essential to software engineers. Learning to ask a smart question not only allows you and the recipient to save time by asking clear cut questions, but it also allows clear cut responses. In the field of software engineering, the stereotype is no longer the solo developer working from their basement. It is now a big group effort, collaborations between teams to facilitate efficient communication to get the job done fast and nicely. Smart question create ways to benefit not only the person asking the question but also ways for the people who come after who might also have the same question. Smart questions isn't only just a essential skill for software engineers, it is a essential skill for any person for any profession who needs to not only work with others but also learn from others. Being able to ask smart questions allows people to get the best responses.
 
-## Conclusion
 
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+## Insights
+From comparing these two questions that are considered smart and not as smart, but still a good question. I have realized that by being able to ask a smart question, the better question that I ask, the better answer that I get. By clarifying my questions, getting straight to the point, and by giving enough context, I will be able to get the same quality response in return. By putting in the effort to ask that smart question, I can show that I care enough which will in turn invite the same respect to the effort shown. Smart questions not only help myself but also others. A good smart question is often one that many others experience and would likely ask as well. By starting with quality, I not only help myself but also others. 
