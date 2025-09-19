@@ -49,7 +49,7 @@
       "studyType": "B.S.",
       "startDate": "2023-09-01",
       "endDate": "Present",
-      "courses": [""]
+      "courses": []
     }
   ],
   "work": [
@@ -60,7 +60,8 @@
       "startDate": "2024",
       "endDate": "Present",
       "summary":  "Manage daily front-of-house operations for a local restaurant, smooth staff coordination. Responsible for training and supervising employees, and resolving customer concerns",
-      "highlights": ["Supervised and scheduled a team of 3+ front-of-house staff to optimize coverage and efficiency",
+      "highlights": [
+  "Supervised and scheduled a team of 3+ front-of-house staff to optimize coverage and efficiency",
   "Oversaw cash handling, POS operations, and daily sales",
   "Coordinated with kitchen staff to ensure timely food delivery and quality standards",
   "Trained new employees in service etiquette and safety procedures"]
@@ -72,7 +73,7 @@
       "startDate": "",
       "endDate": "",
       "summary": "",
-      "highlights": [""]
+      "highlights": []
     }
   ],
   "volunteer": [
@@ -93,7 +94,7 @@
       "startDate": "",
       "endDate": "",
       "summary": "",
-      "highlights": [""]
+      "highlights": []
     }
   ],
   "awards": [
@@ -105,7 +106,7 @@
     },
     {
       "title": "",
-      "date": "5",
+      "date": "",
       "awarder": "",
       "summary": ""
     }
