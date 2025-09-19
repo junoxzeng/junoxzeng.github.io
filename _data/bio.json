@@ -7,10 +7,24 @@
     "phone": "808-497-2338",
     "website": "https://junoxzeng.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.",
-    "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": {
+      "address": "",
+      "postalCode": "96816",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "junoxzeng", "url": "http://github.com/junoxzeng" },
-      { "network": "linkedin", "username": "JunXiangZeng", "url": "http://linkedin.com/in/changeme" },
+      {
+        "network": "github",
+        "username": "junoxzeng",
+        "url": "http://github.com/junoxzeng"
+      },
+      {
+        "network": "linkedin",
+        "username": "JunXiangZeng",
+        "url": "http://linkedin.com/in/changeme"
+      }
     ]
   },
   "interests": [
@@ -21,11 +35,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": ["C++", "Java", "Javascript", "Python" ]
+      "keywords": ["C++", "Java", "Javascript", "Python"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Git/GitHub" ]
+      "keywords": ["Git/GitHub"]
     }
   ],
   "education": [
@@ -35,8 +49,7 @@
       "studyType": "B.S.",
       "startDate": "2023-09-01",
       "endDate": "Present",
-      "courses": [ ""
-      ]
+      "courses": [""]
     }
   ],
   "work": [
@@ -47,20 +60,16 @@
       "startDate": "",
       "endDate": "",
       "summary": "",
-      "highlights": [
-        
-      ]
+      "highlights": []
     },
     {
       "company": "",
-      "position": "
+      "position": "",
       "website": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
-      "highlights": [""
-        
-      ]
+      "highlights": [""]
     }
   ],
   "volunteer": [
@@ -69,11 +78,9 @@
       "website": "",
       "position": "",
       "startDate": "",
-      "endDate": ""
-      "summary": ""
-      "highlights": [""
-        
-      ]
+      "endDate": "",
+      "summary": "",
+      "highlights": [""]
     },
     {
       "organization": "",
@@ -82,8 +89,7 @@
       "startDate": "",
       "endDate": "",
       "summary": "",
-      "highlights": [""
-      ]
+      "highlights": [""]
     }
   ],
   "awards": [
