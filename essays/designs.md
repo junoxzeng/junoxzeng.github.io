@@ -10,7 +10,7 @@ labels:
   - Reflection
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../essays/codingstandards.png">
+<img width="200px" class="rounded float-start pe-4" src="../essays/codedesign.png">
 
 
 ## "Real" Coding
