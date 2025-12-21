@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "My Introduction and Path in Computer Science"
+title: "My Path in Computer Science"
 # All dates must be YYYY-MM-DD format!
 date: 2025-12-19
 published: True
