@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/collegeathlete.png
+image: img/collegeathlete.jpg
 title: "College Athletes: Students or Workers?"
 date: 2025
 published: true
@@ -10,7 +10,7 @@ labels:
   - Research
 summary: "Research proposal and essay arguing whether college athletes are students or workers"
 ---
-<img class="img-fluid" src="athlete.png">
+<img class="img-fluid" src="athlete.jpg">
 
 This project focused on the debate around whether college athletes should be viewed mainly as students or as workers. College sports bring in a huge amount of money, yet the athletes themselves often receive little beyond scholarships. This raised the question of whether it is fair to treat them as amateurs when their time, effort, and performance closely resemble a full-time job. I worked on this project for a KRS, handling all of the research and writing on my own.
 
