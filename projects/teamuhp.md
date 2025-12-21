@@ -14,6 +14,8 @@ labels:
 summary: "A web application made to help UH Manoa students connect, and find candidates fit to help with their projects via project listings."
 ---
 
+<img class="img-fluid" src="teampuhplogo.jpg">
+
 ## What is TeamUHp?
 
 TeamUHp is a collaborative web platform designed to connect people around project-based work. Users can create project listings that include key details such as required skills, number of collaborators needed, deadlines, and compensation. After logging in, users are presented with a streamlined dashboard where they can browse projects seeking collaborators or easily switch to view and manage their own listings. 
