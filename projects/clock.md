@@ -10,7 +10,7 @@ labels:
 summary: "This is an application that converts any amount of seconds to date and time"
 ---
 
-<img class="img-fluid" src="clock.png">
+<img class="img-fluid" src="clock.jpg">
 Date and Time Converter
 
 This project is a Java application that converts a given number of seconds into a readable date and time format. The input represents the number of seconds elapsed within a year, and the output displays the corresponding month, day, and time.
