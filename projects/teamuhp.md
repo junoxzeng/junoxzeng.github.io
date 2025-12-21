@@ -14,7 +14,7 @@ labels:
 summary: "A web application made to help UH Manoa students connect, and find candidates fit to help with their projects via project listings."
 ---
 
-<img class="img-fluid" src="teampuhplogo.jpg">
+<img class="img-fluid" src="teampuhplogo.png">
 
 ## What is TeamUHp?
 
