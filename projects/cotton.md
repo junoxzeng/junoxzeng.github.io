@@ -1,59 +1,47 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
-published: false
+image: img/team2.png
+title: "TeamUHp!"
+date: 2025
+published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - Agile project management
+  - Boostrap
+  - HTML
+  - Web application building
+  - Team project
+summary: "A web application made to help UH Manoa students connect, and find candidates fit to help with their projects via project listings."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+## It All Starts With Brainstorming
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+From the very beginning, we had a good idea of what our application would be. Teammate and fellow Computer Science major Joan, suggested the idea that became TeamUHp. She was given the suggestion of a "help wanted"-esque site by a friend. Having a concept this early was great, as it gave us valuable time to brainstorm other aspects such as aesthetics and layout. 
 
-To give you a flavor of the game, here is an excerpt from one run:
+## What is TeamUHp?
 
-<hr>
+TeamUHp is a collaborative web platform designed to connect people around project-based work. Users can create project listings that include key details such as required skills, number of collaborators needed, deadlines, and compensation. After logging in, users are presented with a streamlined dashboard where they can browse projects seeking collaborators or easily switch to view and manage their own listings. 
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+<img width="500px" 
+     class="rounded float-start pe-4" 
+     src="../img/homepage.png" >
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+# What was my role in TeamUHp?
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+My main role in TeamUHp was to decorate the page, and provide a drafts for the landing and sign in page. Along with this, I drafted and made the logo, and landing page effects. 
 
-pickup candle
-- you are now carrying the candle -
+Despite not having the hardest job in the group, I still learned a lot about teamwork, agile project management, and working diligantly. It was my first experience being apart of a computer related group project, and was a glimpse into the software engineering field as a whole. 
 
-pickup match
-- you are now carrying the match -
+Below is the first draft:P
 
-light match candle
+<img width="500px" 
+     class="rounded float-start pe-4" 
+     src="../img/Draft.png" >
 
-The candle is now lit. It illuminates everything in the room.
+For more on TeamUHp!
 
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
+TeamUHp Github page which has information on installation, about, developer guide, and more: https://team-uhp.github.io/
 
-<hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+
+     
