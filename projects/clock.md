@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/calandar.png
+image: img/calendar.png
 title: "Date and Time Changer"
 date: 2025
 published: true
