@@ -14,29 +14,15 @@ labels:
 summary: "A web application made to help UH Manoa students connect, and find candidates fit to help with their projects via project listings."
 ---
 
-## It All Starts With Brainstorming
-
-From the very beginning, we had a good idea of what our application would be. Teammate and fellow Computer Science major Joan, suggested the idea that became TeamUHp. She was given the suggestion of a "help wanted"-esque site by a friend. Having a concept this early was great, as it gave us valuable time to brainstorm other aspects such as aesthetics and layout. 
-
 ## What is TeamUHp?
 
 TeamUHp is a collaborative web platform designed to connect people around project-based work. Users can create project listings that include key details such as required skills, number of collaborators needed, deadlines, and compensation. After logging in, users are presented with a streamlined dashboard where they can browse projects seeking collaborators or easily switch to view and manage their own listings. 
 
-<img width="500px" 
-     class="rounded float-start pe-4" 
-     src="../img/homepage.png" >
+# TeamUHP Role
 
-# What was my role in TeamUHp?
+My main role in TeamUHp was working on the backend of the site. I was primarily responsible for implementing core functionality such as user authentication, including login and signup flows, as well as handling database interactions and ensuring data integrity across the application. Much of my work focused on making sure these systems were reliable, and integrated smoothly with the frontend so that users could interact with the platform without issues.
 
-My main role in TeamUHp was to decorate the page, and provide a drafts for the landing and sign in page. Along with this, I drafted and made the logo, and landing page effects. 
-
-Despite not having the hardest job in the group, I still learned a lot about teamwork, agile project management, and working diligantly. It was my first experience being apart of a computer related group project, and was a glimpse into the software engineering field as a whole. 
-
-Below is the first draft:P
-
-<img width="500px" 
-     class="rounded float-start pe-4" 
-     src="../img/Draft.png" >
+This was my first time being part of a group coding project, and it gave me a small glimpse of what software engineering in the real world is like. Working with other people, dealing with shared code, and figuring things out together felt very different from working on projects alone, but it was a really valuable experience.
 
 For more on TeamUHp!
 
